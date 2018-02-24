@@ -1,0 +1,10 @@
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.deps.json
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.runtimeconfig.json
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.runtimeconfig.dev.json
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.dll
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.pdb
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.csproj.CoreCompileInputs.cache
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.AssemblyInfoInputs.cache
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.AssemblyInfo.cs
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.dll
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\Win10-x64\ScanerSimulator.pdb

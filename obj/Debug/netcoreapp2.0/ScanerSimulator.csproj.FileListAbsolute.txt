@@ -1,0 +1,11 @@
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\ScanerSimulator.deps.json
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\ScanerSimulator.runtimeconfig.json
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\ScanerSimulator.runtimeconfig.dev.json
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\ScanerSimulator.dll
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\bin\Debug\netcoreapp2.0\ScanerSimulator.pdb
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\ScanerSimulator.csproj.CoreCompileInputs.cache
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\ScanerSimulator.AssemblyInfoInputs.cache
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\ScanerSimulator.AssemblyInfo.cs
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\ScanerSimulator.dll
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\ScanerSimulator.pdb
+F:\DysoftProjects\ScanerSimulator\ScanerSimulator\obj\Debug\netcoreapp2.0\ScanerSimulator.csprojResolveAssemblyReference.cache
