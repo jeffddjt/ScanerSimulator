@@ -2782,33 +2782,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jeffddjt\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/dysoft/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DysoftProjects\\ScanerSimulator\\ScanerSimulator\\ScanerSimulator.csproj",
+      "projectUniqueName": "/home/dysoft/netcore/ScannerSimulator/ScanerSimulator/ScanerSimulator.csproj",
       "projectName": "ScanerSimulator",
-      "projectPath": "F:\\DysoftProjects\\ScanerSimulator\\ScanerSimulator\\ScanerSimulator.csproj",
-      "packagesPath": "C:\\Users\\jeffddjt\\.nuget\\packages\\",
-      "outputPath": "F:\\DysoftProjects\\ScanerSimulator\\ScanerSimulator\\obj\\",
+      "projectPath": "/home/dysoft/netcore/ScannerSimulator/ScanerSimulator/ScanerSimulator.csproj",
+      "packagesPath": "/home/dysoft/.nuget/packages/",
+      "outputPath": "/home/dysoft/netcore/ScannerSimulator/ScanerSimulator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jeffddjt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "/home/dysoft/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
