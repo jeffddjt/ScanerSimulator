@@ -1,7 +1,7 @@
 FROM microsoft/dotnet
 RUN mkdir /app
 WORKDIR /app
-COPY ./ScanerSimulator .
+COPY . .
 EXPOSE 9014
 ENTRYPOINT ["dotnet","run"]
 
